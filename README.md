@@ -64,20 +64,18 @@ Vi har et omfattende HMS-system med instrukser organisert i 8 kategorier:
 - 6-003: Konflikter
 - 6-004: Helskontroll
 - 6-005: Bekreftelse på lest handbok
-- 6-006: Krisehåndtering/Ulykker
+- 6-006: Krisehandtering og ulykker
 
-### 7. Smittevern (9 instrukser)
-- 7-001: Covid-19 - Generelle smittevernsrutiner nivå 1
-- 7-002: Covid-19 - Praktiske råd
-- 7-003: Smitteverntiltak - Om smittevern
-- 7-007: Personlige eiendeler og bruk av pauserom etc.
-- 7-008: Informasjon til alle kunder
-- 7-009: Dokumentasjon til eventuell smitteoppsporing
+### 7. Smittevern (4 instrukser)
+- 7-001: Generelle smitteverntiltak
+- 7-002: Personlige eiendeler og bruk av pauserom etc.
+- 7-003: Informasjon til alle kunder
+- 7-004: Dokumentasjon til eventuell smitteoppsporing
 
-### 8. Krisehåndtering (1 instruks)
+### 8. Førstehjelp (1 instruks)
 - 8-001: Førstehjelp - Grunnleggende
 
-**Total: 35 HMS-instrukser**
+**Total: 32 HMS-instrukser**
 
 ## Kontaktinformasjon
 
