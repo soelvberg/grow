@@ -3,7 +3,7 @@ title: "Bruk av bedriftshelsetjenesten (BHT)"
 document_number: "1:004"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "1. Systematisk HMS"
 ---
 

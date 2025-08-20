@@ -1,13 +1,13 @@
 ---
 title: "Dokumentasjon til eventuell smitteoppsporing"
-document_number: "7:009"
+document_number: "7:004"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "7. Smittevern"
 ---
 
-# 7:009 Dokumentasjon til eventuell smitteoppsporing
+# 7:004 Dokumentasjon til eventuell smitteoppsporing
 
 ## Formål
 

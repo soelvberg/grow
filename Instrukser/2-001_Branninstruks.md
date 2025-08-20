@@ -3,7 +3,7 @@ title: "Branninstruks"
 document_number: "2:001"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "2. Brann og beredskap"
 ---
 

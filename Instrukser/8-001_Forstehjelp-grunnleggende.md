@@ -3,7 +3,7 @@ title: "Førstehjelp; grunnleggende"
 document_number: "8:001"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "8. Krisehåndtering"
 ---
 

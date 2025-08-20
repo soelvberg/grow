@@ -1,13 +1,13 @@
 ---
 title: "Generelle smitteverntiltak"
-document_number: "7:003"
+document_number: "7:001"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "7. Smittevern"
 ---
 
-# 7:003 Generelle smitteverntiltak
+# 7:001 Generelle smitteverntiltak
 
 ## Formål
 

@@ -3,7 +3,7 @@ title: "Helsekontroll"
 document_number: "6:004"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "6. Personalrelatert"
 ---
 

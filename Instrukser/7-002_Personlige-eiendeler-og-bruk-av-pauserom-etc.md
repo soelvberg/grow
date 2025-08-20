@@ -1,13 +1,13 @@
 ---
 title: "Personlige eiendeler og bruk av pauserom etc"
-document_number: "7:007"
+document_number: "7:002"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "7. Smittevern"
 ---
 
-# 7:007 Personlige eiendeler og bruk av pauserom etc
+# 7:002 Personlige eiendeler og bruk av pauserom etc
 
 ## Formål
 

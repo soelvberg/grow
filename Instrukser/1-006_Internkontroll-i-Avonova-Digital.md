@@ -3,7 +3,7 @@ title: "Internkontroll i Avonova Digital"
 document_number: "1:006"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "1. Systematisk HMS"
 ---
 

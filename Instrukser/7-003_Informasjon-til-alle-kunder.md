@@ -1,13 +1,13 @@
 ---
 title: "Informasjon til alle kunder"
-document_number: "7:008"
+document_number: "7:003"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "7. Smittevern"
 ---
 
-# 7:008 Informasjon til alle kunder
+# 7:003 Informasjon til alle kunder
 
 ## Formål
 

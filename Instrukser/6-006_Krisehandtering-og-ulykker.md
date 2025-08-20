@@ -1,13 +1,13 @@
 ---
-title: "Krisehåndtering; Ulykker"
+title: "Krisehåndtering og ulykker"
 document_number: "6:006"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "6. Personalrelatert"
 ---
 
-# 6:006 Krisehåndtering; Ulykker
+# 6:006 Krisehåndtering og ulykker
 
 ## Formål
 

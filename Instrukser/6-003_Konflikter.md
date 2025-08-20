@@ -3,7 +3,7 @@ title: "Konflikter"
 document_number: "6:003"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "6. Personalrelatert"
 ---
 

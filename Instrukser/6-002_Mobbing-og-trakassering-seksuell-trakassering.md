@@ -3,7 +3,7 @@ title: "Mobbing og trakassering (seksuell trakassering)"
 document_number: "6:002"
 version: "1.0"
 date: "2024"
-status: "Godkjent"
+status: "Utkast"
 category: "6. Personalrelatert"
 ---
 
