@@ -1,5 +1,5 @@
 ---
-title: "Førstehjelp; grunnleggende"
+title: "Førstehjelp - Grunnleggende"
 document_number: "8:001"
 version: "1.0"
 date: "2024"
@@ -7,7 +7,7 @@ status: "Utkast"
 category: "8. Krisehåndtering"
 ---
 
-# 8:001 Førstehjelp; grunnleggende
+# 8:001 Førstehjelp - Grunnleggende
 
 ## Formål
 
