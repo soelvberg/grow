@@ -1,41 +1,52 @@
 ---
 title: "HMS-gjennomgang"
 document_number: "1:005"
-version: "1.0"
-date: "2024"
-status: "Utkast"
+version: "2.0"
+date: "2025"
+status: "Aktiv"
 category: "1. Systematisk HMS"
 ---
 
 # 1:005 HMS-gjennomgang
 
-## Formål
+## Hensikt
 
-Denne instruksen skal definere prosedyrer for HMS-gjennomgang og sikre at disse blir utført systematisk og kontinuerlig.
+Sikre at HMS-systemet / håndboka er etablert og oppdatert, at det finnes nødvendig dokumentasjon som tilfredsstiller krav i gjeldende lover og forskrifter og at HMS-systemet etterleves i praksis.
 
-## Omfang og ansvar
+## Ansvar
 
-**Bedriftens ledere**
+**Daglig leder (Monica Grov)** har ansvar for at denne prosedyren gjennomføres minimum en gang i året.
 
-Daglig leder er ansvarlig for at instruksen revideres og vedlikeholdes.
+## Gjennomføring
 
-**Arbeidstakere**
+### Planlegging og forberedelse
+- Daglig leder setter av nødvendig tid og tidspunkt for gjennomgangen
+- Dersom det er flere deltakere skal de varsles i god tid. Det kan være f.eks verneombud, avdelingsledere eller andre som er viktig for en god gjennomføring
+- Gjennomgangen skal planlegges og forberedes
 
-Alle arbeidstakere skal delta i HMS-gjennomgang innenfor sitt ansvarsområde.
+### Gjennomgangens innhold
+- Det skal påses at det eksisterende HMS-systemet fungerer
+- Kontroller om det har vært endringer i bedriften som kan ha konsekvenser for hvilke lover og forskrifter som gjelder
+- Gjennomgå alle HMS-instrukser i systemet
+- Vurder om instruksene er oppdaterte og relevante for frisørsalongens virksomhet
+- Kontroller at alle ansatte (4 frisører og 1 ryddehjelp) har lest og forstått relevante instrukser
 
-## Definisjon
+## Oppfølging av gjennomgangen
 
-**HMS-gjennomgang**
+### Ansvar for oppfølging
+- Daglig leder er ansvarlig for oppfølging av de avvik og anbefalinger som er dokumentert i rapporten
+- Korrigerende tiltak skal verifiseres og avviket korrigeres innen den tidsfrist som gjennomgangen har satt
 
-Systematisk gjennomgang av helse-, miljø- og sikkerhetsforhold i bedriften.
+### Verifisering
+- Verifisering skjer ved at det rapporteres at avviket er korrigert på fullgod måte
+- Det må være full sporbarhet i dokumentasjonen når det gjelder verifisering av korrigerende tiltak
+- Bedriften skal vedlikeholde et register over status for avvik og korrigerende tiltak fra gjennomgangene
 
-## Beskrivelse
+## Referanser
 
-[Innhold skal utvikles videre]
-
-## Henvisninger
-
-[Relevante henvisninger skal legges til]
+- Internkontrollforskriften § 5 (8)
+- Arbeidsmiljøloven
+- HMS-instrukser 1-001 til 8-001
 
 ---
 
