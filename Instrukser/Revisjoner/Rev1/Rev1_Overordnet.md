@@ -259,8 +259,8 @@ NB! Denne instruksen er ferdigstilt. Ikke endre.
 72. **Avfall**: Hvordan håndteres avfall?
     **Svar:** Sortering i henhold til kommunal ordning.
 
-#### 4:003 Lakk og stylingprodukter
-73. **Produkter**: Hvilke lakk og stylingprodukter brukes?
+#### 4:003 Stylingprodukter
+73. **Produkter**: Hvilke stylingprodukter brukes?
     **Svar:** Shampo, balsam, stylingprodukter etc.
 
 74. **Sikkerhet**: Hvilke sikkerhetstiltak gjelder?
