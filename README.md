@@ -23,6 +23,13 @@ Som frisørsalong tilbyr vi:
 - Farging og hårbehandling
 - Konsultasjon og rådgivning om hårpleie
 
+## Bedriftshelsetjeneste (BHT)
+
+- **Leverandør:** Avonova
+- **Kontaktperson:** Mathilde Hem  
+  - **Telefon:** 33 00 26 98  
+  - **E-post:** [mathilde.hem@avonova.no](mailto:mathilde.hem@avonova.no)
+
 ## HMS-instrukser
 
 Vi har et omfattende HMS-system med instrukser organisert i 8 kategorier:

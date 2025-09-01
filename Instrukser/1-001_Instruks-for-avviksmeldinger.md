@@ -1,9 +1,9 @@
 ---
 title: "Instruks for avviksmeldinger"
 document_number: "1:001"
-version: "1.0"
-date: "2024"
-status: "Utkast"
+version: "2.0"
+date: "2025"
+status: "Aktiv"
 category: "1. Systematisk HMS"
 ---
 
@@ -11,92 +11,90 @@ category: "1. Systematisk HMS"
 
 ## Formål
 
-Instruks for avviksmelding skal benyttes for å melde om forhold som ikke er i samsvar med lover, forskrifter eller bedriftens egne HMS-bestemmelser. Instruksen skal sikre at avvik og uønskede hendelser som avdekkes blir registeret, behandlet og at melderen får tilbakemelding.
+Denne instruksen definerer hvordan avvik og uønskede hendelser skal meldes og behandles i GROW FRISØR OG BARBER AS. Instruksen sikrer at alle avvik registreres, behandles og følges opp, og at melderen får tilbakemelding.
 
 ## Omfang og ansvar
 
 **Bedriftens ledere**
 
-Daglig leder er ansvarlig for at instruksen revideres og vedlikeholdes.
-
-Daglig leder har det overordnede ansvaret for at avviksmeldinger og meldinger om uønskede hendelser blir behandlet og fulgt opp. Leder med personalansvar er ansvarlig for at avviksmeldinger blir behandlet og fulgt opp innenfor eget ansvarsområde.
-
-Alle som behandler avviksmeldinger og meldinger om uønskede hendelser skal gi tilbakemelding til melder.
-
-Verneombudet skal alltid ha adgang til alle rapporterte avvik og meldinger.
+- **Daglig leder (Monica Grov)** er ansvarlig for at instruksen revideres og vedlikeholdes
+- **Daglig leder** har det overordnede ansvaret for behandling og oppfølging av avviksmeldinger
+- **Alle som behandler avvik** skal gi tilbakemelding til melder
+- **Verneombudet** skal alltid ha adgang til alle rapporterte avvik
 
 **Arbeidstakere**
 
-Bedriftens arbeidstakere, innleid personell og konsulenter plikter å melde fra om avvik og uønskede i henhold til denne instruksen.
+Alle ansatte, inkludert frisører og ryddehjelp, plikter å melde fra om avvik og uønskede hendelser i henhold til denne instruksen.
 
 ## Definisjon
 
 **Avvik**
 
-Alle hendelser som innebærer brudd på HMS-lovgivningen og bedriftens egne HMS-bestemmelser, skal regnes som rene avvik. Dette er tilsynsmyndighetenes definisjon og kan for eksempel dreies seg om manglede eller feil bruk av verneutstyr eller sikkerhetsanordninger. Dette inkluderer også eksterne faktorer som forurensende utslipp til vann, luft- eller grunn, feil lagring av avfall og kjemiske- og biologiske stoffer. Brudd på alle interne HMS-rutiner vurderes også som avvik.
+Hendelser som innebærer brudd på HMS-lovgivningen eller bedriftens HMS-bestemmelser, for eksempel:
+- Feil bruk av verneutstyr eller sikkerhetsanordninger
+- Feil lagring av kjemiske stoffer eller avfall
+- Brudd på interne HMS-rutiner
 
 **Uønskede hendelser**
 
-Alle forhold som kan eller kunne ført til et avvik, skal også meldes som et avvik i avvikssystemet. Mellommenneskelige forhold, eller forhold som gjelder varsling, mobbing og trakassering skal ikke meldes som avvik. Her skal instruks for henholdsvis konflikthåndtering og varsling følges.
-
-**Melder**
-
-Arbeidstaker eller leder som melder fra om et avvik
+Forhold som kunne ført til et avvik, men som ikke skal meldes som avvik:
+- Mellommenneskelige forhold
+- Varsling, mobbing og trakassering (følg egen instruks)
 
 ## Beskrivelse
 
-**Melde avvik**
+### Hva skal meldes
 
-Enhver som oppdager uregelmessighet, feil eller mangler ved følgende punkter skal registre avviksmelding eller uønsket hendelsesskjema under Hendelsesregister i Avonova Digital:
-
+Meld følgende til daglig leder:
 - Nestenulykker og ulykker
 - Branntilløp og brann
 - Uhell med tekniske installasjoner
 - Andre typer uhell
 
-Uønsket hendelse som kan vente, eller ikke lar seg korrigere umiddelbart, skal settes opp i egen handlingsplan.
+### Hvordan melde
 
-Uønsket hendelse som kan elimineres umiddelbart, og som ikke medfører fare for gjentakelse eller ytterligere konsekvenser, skal ikke behandles etter denne instruksen.
+**Alle ansatte** melder avvik til daglig leder (Monica Grov), som deretter registrerer avviket i Avonova Digital.
 
-Melder skal rapportere avviket eller den uønskede hendelsen i Avonova Digital. Avvik skal som hovedregel meldes til nærmeste leder.
+**Meldingsform:**
+1. **Muntlig melding** (anbefalt for hastende avvik)
+2. **Skriftlig melding** skal inneholde:
+   - Kort beskrivelse av avviket
+   - Årsak til avviket
+   - Forslag til løsninger
+   - Dato og signatur
 
-- Dersom avviket er av en slik karakter at tiltak haster skal nærmeste leder orienteres muntlig i tillegg til Avonova Digital.
-- Dersom nærmeste leder ikke er tilgjengelig, kontaktes lederen over. Verneombudet skal også i slike tilfeller orienteres.
+### Meldeprosedyre
 
-Avvik skal som hovedregel meldes elektronisk gjennom Avonova Digital. Følg anvisningene oppgitt i skjemaet. Avvik kan også leveres skriftlig, men da skal det legges vekt på følgende punkter:
+1. **Normale avvik**: Meld til daglig leder (Monica Grov)
+2. **Hastende avvik**: Meld muntlig til daglig leder umiddelbart
+3. **Daglig leder utilgjengelig**: Kontakt verneombudet eller styreleder
+4. **Daglig leder** registrerer alle avvik i Avonova Digital
 
-- Gi en kort beskrivelse av avviket eller den uønskede hendelsen.
-- Gi en kort beskrivelse av årsaken eller årsakene til avviket.
-- Gi en kort beskrivelse av forslag til mulige løsninger.
-- Skjemaet skal dateres, signeres og overleveres/sendes nærmeste leder.
+### Spesielle situasjoner
 
-**Ved personskade:**
+**Personskade:**
+- Meld umiddelbart til daglig leder
+- Daglig leder sender skademelding til NAV og yrkesskadeforsikring
 
-- Personskader som har sin årsak i arbeidet eller forhold på arbeidsstedet, og som kan føre til langvarige plager, skal meldes til nærmeste leder så snart som mulig.
-- Leder med personalansvar plikter å sende skademelding til NAV for alle skader som kan føre til langvarige helseplager eller funksjonsnedsettelser.
-- Leder med personalansvar plikter også å melde fra om skade til yrkesskadeforsikring, i henhold til gjeldende avtalevilkår.
+**Alvorlige arbeidsulykker:**
+- Varsle umiddelbart: daglig leder, verneombud, nærmeste leder
+- Daglig leder varsler Arbeidstilsynet og politiet
 
-**Ved alvorlige arbeidsulykker:**
+### Behandling av avvik
 
-- Alvorlige arbeidsulykker skal umiddelbart varsles til daglig leder. Verneombud og nærmeste leder skal også informeres så snart som mulig.
-- Daglig leder er ansvarlig for å varsle Arbeidstilsynet og politiet.
-- Se for øvrig punktet over om melding til NAV og yrkesskadeforsikring ved personskade.
-
-**Behandling av avvik:**
-
-- Det er nærmeste leder som først skal behandle mottatt avvik og vurdere om det er behov for å oversende avviket til en annen behandler.
-- Leder skal gi en tilbakemelding til melder om at avviket er mottatt og en kort beskrivelse om arbeidsgivers vurdering.
-- Det skal settes en tidsfrist for gjennomføring av vurdering og tiltak.
-  - Skyldes avviket manglende etterlevelse av interne instrukser og retningslinjer, bør også instruksen/retningslinjen evalueres.
-  - Dersom avviket er forårsaket av en arbeidstaker, skal denne ved behov involveres i vurderingen/kartleggingen av hva som har skjedd.
-- Når tilstrekkelige tiltak er gjennomført, skal avviket lukkes. Leder skal orientere melder og verneombudet, og saken skal arkiveres.
-- Avviksmeldinger skal gjennomgås jevnlig.
+1. **Daglig leder** behandler mottatt avvik først
+2. **Tilbakemelding** til melder om mottak og vurdering
+3. **Sett tidsfrist** for vurdering og tiltak
+4. **Evaluér instrukser** hvis avvik skyldes manglende etterlevelse
+5. **Involvér arbeidstaker** hvis vedkommende forårsaket avviket
+6. **Lukk avviket** når tiltak er gjennomført
+7. **Arkiver** og orienter melder og verneombud
 
 ## Henvisninger
 
 - Internkontrollforskriften § 5
-- AML § 3-1, 2. ledd e)
-- AML § 5-1
+- Arbeidsmiljøloven § 3-1, 2. ledd e)
+- Arbeidsmiljøloven § 5-1
 
 ---
 
