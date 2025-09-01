@@ -1,5 +1,5 @@
 ---
-title: "Generell arbeidsinstruks"
+title: "Arbeidsinstruks - Generell"
 document_number: "3:001"
 version: "2.0"
 date: "2025"
