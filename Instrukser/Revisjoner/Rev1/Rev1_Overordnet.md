@@ -313,20 +313,7 @@ NB! Denne instruksen er ferdigstilt. Ikke endre.
 88. **Avhending**: Hvordan avhendes avfall?
     **Svar:** Kommunal ordning.
 
-#### 5:003 Resirkulering av hår
-89. **Håravfall**: Hvor mye håravfall produseres?
-    **Svar:** Ikke aktuelt
-
-90. **Innsamling**: Hvordan samles håravfall inn?
-    **Svar:** Ikke aktuelt
-
-91. **Behandling**: Hvordan behandles håravfall?
-    **Svar:** Hårstøvsuger.
-
-92. **Avhending**: Hvordan avhendes håravfall?
-    **Svar:** Ikke aktuelt
-
-#### 5:004 Energibruk og bærekraft
+#### 5:003 Energibruk og bærekraft
 93. **Energibruk**: Hvordan overvåkes energibruken?
     **Svar:** Vanlig strømmåler.
 
