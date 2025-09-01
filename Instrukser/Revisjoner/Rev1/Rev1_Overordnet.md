@@ -472,16 +472,16 @@ Meldning om akutt forurensing gjøres til brannvesenet: telefon 110
 
 #### 7:003 Informasjon til alle kunder
 129. **Kundeinformasjon**: Hvilken informasjon gis til kunder?
-    **Svar:**
+    **Svar:** Det som er vanlig for frisør virksomhet
 
 130. **Smittevern**: Hvordan informeres kunder om smittevern?
-    **Svar:**
+    **Svar:** Ikke aktuelt i vanlig drift.
 
 131. **Rutiner**: Hvilke rutiner gjelder for kunder?
-    **Svar:**
+    **Svar:** Det som er vanlig for frisør virksomhet
 
 132. **Opplæring**: Hvordan opplæres kunder?
-    **Svar:**
+    **Svar:** Det som er vanlig for frisør virksomhet
 
 #### 7:004 Dokumentasjon til eventuell smitteoppsporing
 133. **Kunderegister**: Hvordan registreres kunder?
