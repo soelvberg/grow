@@ -1,9 +1,9 @@
 ---
 title: "Bekreftelse på lest håndbok"
 document_number: "6:005"
-version: "1.0"
-date: "2024"
-status: "Utkast"
+version: "2.0"
+date: "2025"
+status: "Aktiv"
 category: "6. Personalrelatert"
 ---
 
@@ -11,31 +11,45 @@ category: "6. Personalrelatert"
 
 ## Formål
 
-Denne instruksen skal definere prosedyrer for bekreftelse på at ansatte har lest og forstått bedriftens håndbok.
+Sikre at alle ansatte er kjent med virksomhetens regler og retningslinjer samt alle instrukser og rutiner som omhandler HMS.
 
-## Omfang og ansvar
+## Ansvar
 
-**Bedriftens ledere**
+**Arbeidsgiver**
 
-Daglig leder er ansvarlig for at instruksen revideres og vedlikeholdes.
+Arbeidsgiver er ansvarlig for at alle ansatte gjøres kjent med og får tilgang til virksomhetens håndbøker.
 
 **Arbeidstakere**
 
-Alle arbeidstakere skal bekrefte at de har lest håndboken.
+Det er hver enkelt ansatt sitt ansvar å følge denne instruksen.
 
-## Definisjon
+## Virkeområde
 
-**Bekreftelse på lest håndbok**
+Instruksen gjelder for alle ansatte i bedriften, også innleid arbeidskraft der hvor dette er aktuelt.
 
-Dokumentert bekreftelse på at ansatte har lest og forstått bedriftens retningslinjer.
+## Gjennomføring
 
-## Beskrivelse
+For å sikre at alle ansatte skal få viktig og tilstrekkelig informasjon er vi avhengige at alle gjøres kjent med vår håndbok. For å øke bevissthet og kunnskap omkring det som omhandler HMS skal du som ansatt gå inn i vår håndbok å lese denne i sin helhet.
 
-[Innhold skal utvikles videre]
+### Viktige instrukser å sette seg ekstra godt inn i:
 
-## Henvisninger
+- Varslingsplan
+- Ulykker
+- Branninstruks
+- Ansattes medvirkningsplikt
+- Risikovurdering
+- Melding og behandling av hendelser
+- Verneutstyr
 
-[Relevante henvisninger skal legges til]
+### Tilgang til håndboken
+
+Håndboken skal være tilgjengelig i perm i bedriftens lokaler. I tillegg skal håndboken distribueres digitalt til alle ansatte.
+
+### Spørsmål og tilbakemeldinger
+
+Dersom du er usikker eller har spørsmål til det du har lest er det viktig at du tar kontakt med leder. Vi setter også stor pris på tilbakemeldinger dersom du oppdager feil, mangler eller innhold som er vanskelig å forstå.
+
+**NB: Husk å bekrefte nedenfor når du har lest igjennom håndboken.**
 
 ---
 

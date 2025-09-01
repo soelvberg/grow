@@ -1,9 +1,9 @@
 ---
 title: "Helsekontroll"
 document_number: "6:004"
-version: "1.0"
-date: "2024"
-status: "Utkast"
+version: "2.0"
+date: "2025"
+status: "Aktiv"
 category: "6. Personalrelatert"
 ---
 
@@ -11,31 +11,54 @@ category: "6. Personalrelatert"
 
 ## Formål
 
-Denne instruksen skal definere prosedyrer for helsekontroll av ansatte og sikre at helsekontrollene blir utført i samsvar med lovgivning.
+Som ledd i det forebyggende HMS-arbeidet utfører bedriftshelsetjenesten (BHT) helsekontroll for bedriftens ansatte. En grundig gjennomgang av helse, livsstil og arbeidsmiljø gir både bedriften og ansatte et godt grunnlag for å ivareta lov og forskrift, forebygge helseskade og gi bedret helse.
 
-## Omfang og ansvar
+## Definisjoner
 
-**Bedriftens ledere**
+**BHT:** Bedriftshelsetjenesten (Avonova)
 
-Daglig leder er ansvarlig for at instruksen revideres og vedlikeholdes.
+**Helsekontroll:** En undersøkelse av den ansattes helse utført av BHT basert på forskrift eller på bedriftens ønske.
+
+**Helsesertifisering:** Helsekontroll for ansatte som trenger helsesertifikat for å utføre visse typer arbeid (f.eks. førerkort).
+
+## Ansvar
+
+**Daglig leder (Monica Grov)**
+- Påse at ansatte som utfører arbeid der det er lovpålagt å ha helsekontroll, får regelmessig tilbud om dette
+- Revidere og vedlikeholde denne instruksen
 
 **Arbeidstakere**
+- Delta i påkrevde helsekontroller
+- Følge opp anbefalinger fra BHT
 
-Alle arbeidstakere skal delta i påkrevde helsekontroller.
+## Gjennomføring
 
-## Definisjon
+Tilbud om helsekontroll for bedriftens ansatte skal være tilpasset bedriftens og ansattes behov.
 
-**Helsekontroll**
+### Helsekontroll fokus arbeidshelse
 
-Medisinsk undersøkelse for å vurdere arbeidsevne og helsetilstand.
+For frisørsalonger som Grow Frisør og Barber AS er helsekontroller relevante som følge av:
 
-## Beskrivelse
+- **Kjemikalier:** Hårfarger, blekemidler og stylingprodukter
+- **Ergonomi:** Arbeidsstillinger ved klipping og styling
+- **Hudkontakt:** Hyppig håndvask og kjemikalieeksponering
 
-[Innhold skal utvikles videre]
+### Helsekontroll fokus livsstil
+
+Bevisstgjøre ansatte om betydningen av sunn livsstil og redusere risiko for livsstilsrelaterte plager og sykdommer.
+
+## Kontakt BHT
+
+**Avonova**
+- **Kontaktperson:** Mathilde Hem
+- **Telefon:** 33 00 26 98
+- **E-post:** mathilde.hem@avonova.no
 
 ## Henvisninger
 
-[Relevante henvisninger skal legges til]
+- Arbeidsmiljøloven § 10-11
+- Forskrift om utførelse av arbeid - Kapittel 3 (kjemikalier)
+- Forskrift om organisering, ledelse og medvirkning
 
 ---
 
