@@ -1,13 +1,13 @@
 ---
-title: "Risikovurdering - Generell"
+title: "Generell risikovurdering"
 document_number: "1:003"
-version: "1.0"
-date: "2024"
+version: "2.0"
+date: "2025"
 status: "Utkast"
 category: "1. Systematisk HMS"
 ---
 
-# 1:003 Risikovurdering - Generell
+# 1:003 Generell risikovurdering
 
 ## Formål
 
