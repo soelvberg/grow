@@ -1,8 +1,8 @@
 ---
 title: "Ventilasjon og luftkvalitet"
 document_number: "3:005"
-version: "1.0"
-date: "2024"
+version: "2.0"
+date: "2025"
 status: "Aktiv"
 category: "3. Arbeidsinstruks"
 ---

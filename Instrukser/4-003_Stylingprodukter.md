@@ -1,5 +1,5 @@
 ---
-title: "Lakk og stylingprodukter"
+title: "Stylingprodukter"
 document_number: "4:003"
 version: "1.0"
 date: "2024"

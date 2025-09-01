@@ -157,7 +157,7 @@ Denne filen inneholder spørsmål som må besvares for å ferdigstille alle HMS-
 
 ### 3. Arbeidsinstruks
 
-#### 3:001 Arbeidsinstruks - Generell
+#### 3:001 Generell arbeidsinstruks
 45. **Arbeidsprosesser**: Hvilke hovedprosesser har bedriften?
     **Svar:** Det som er vanlig for frisør virksomhet
 
