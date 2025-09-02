@@ -20,9 +20,9 @@ Avanova: Mathilde Hem: 33002698
 - [ ] **Arbeidsmiljøkartlegging** - Siste gjennomgang
 - [ ] **Kjemikalielister** - Alle produkter i bruk
 - [ ] **Sikkerhetsdatablad (SDS)** - For alle kjemikalier
-- [ ] **Ventilasjonsrapporter** - Årlig kontroll
-- [ ] **Støymålinger** - Hvis relevant
-- [ ] **Lysmålinger** - Hvis relevant
+- [x] **Ventilasjonsrapporter** - Årlig kontroll
+- [x] **Støymålinger** - Hvis relevant
+- [x] **Lysmålinger** - Hvis relevant
 
 ### 🏢 Fysisk forberedelse av lokaler
 - [ ] **Rengjøring** - Alle arbeidsområder
@@ -36,7 +36,7 @@ Avanova: Mathilde Hem: 33002698
 
 ### 👥 Personalforberedelser
 - [ ] **HMS-opplæring** - Alle ansatte har oppdatert opplæring
-- [ ] **Instrukser** - Alle har lest og forstått
+- [x] **Instrukser** - Alle har lest og forstått
 - [ ] **Verktøyopplæring** - Sikker bruk av utstyr
 - [ ] **Kjemikalieopplæring** - Sikker håndtering
 - [ ] **Branninstruks** - Alle kan brannslukningsutstyr
@@ -55,8 +55,8 @@ Avanova: Mathilde Hem: 33002698
 - [ ] **Ansiktsvern** - Hvis nødvendig for arbeidet
 - [ ] **Fottøy** - Sikker og ren
 - [ ] **Arbeidsklær** - Riktig type for arbeidet
-- [ ] **Hårnett** - Hvis relevant
-- [ ] **Øyevern** - Hvis nødvendig
+- [x] **Hårnett** - Hvis relevant
+- [x] **Øyevern** - Hvis nødvendig
 
 ### 📊 Internkontroll og oppfølging
 - [ ] **HMS-gjennomgang** - Siste gjennomgang dokumentert
@@ -66,10 +66,10 @@ Avanova: Mathilde Hem: 33002698
 - [ ] **Ansattes tilbakemeldinger** - Registrert og behandlet
 
 ### 📝 Egne sjekkpunkter
-- [ ] Ferdigstille instrukser
+- [x] Ferdigstille instrukser
 - [ ] Vernerunde
 - [ ] Oppdatere arbeidskontrakter med ansatte
-- [ ] Oppdatere skjema, "Alternativ ordning for verneombud"
+- [x] Oppdatere skjema, "Alternativ ordning for verneombud"
 - [ ] Melde Tine på kurs for verneombud
 - [ ] Helsekontroll for alle ansatte
 - [ ] Printe ut HMS-håndbok

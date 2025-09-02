@@ -15,6 +15,11 @@ Vi har totalt **5 ansatte**:
 - **4 frisører** - profesjonelle hårstylister og barbere
 - **1 ryddehjelp** - ansvarlig for å holde salongen ryddig og velorganisert
 
+### Ansvarsområder
+- **Styreleder:** Åge Sølvberg
+- **Daglig leder:** Monica Grov
+- **Verneombud:** Tine Marie Åsnes
+
 ## Tjenester
 
 Som frisørsalong tilbyr vi:
@@ -56,14 +61,13 @@ Vi har et omfattende HMS-system med instrukser organisert i 8 kategorier:
 ### 4. Kjemikalier (4 instrukser)
 - 4-001: Kjemikaliehåndtering - Generell
 - 4-002: Hårfarger og blekemidler
-- 4-003: Lakk og stylingprodukter
+- 4-003: Stylingprodukter
 - 4-004: Klassifisering av farlige stoffer
 
-### 5. Ytre miljø (4 instrukser)
+### 5. Ytre miljø (3 instrukser)
 - 5-001: Miljøkontroll - Generell
 - 5-002: Avfallshåndtering
-- 5-003: Resirkulering av hår
-- 5-004: Energibruk og bærekraft
+- 5-003: Energibruk og bærekraft
 
 ### 6. Personalrelatert (6 instrukser)
 - 6-001: Overordnet varslingsplan
@@ -73,21 +77,22 @@ Vi har et omfattende HMS-system med instrukser organisert i 8 kategorier:
 - 6-005: Bekreftelse på lest handbok
 - 6-006: Krisehandtering og ulykker
 
-### 7. Smittevern (4 instrukser)
+### 7. Smittevern (2 instrukser)
 - 7-001: Generelle smitteverntiltak
-- 7-002: Personlige eiendeler og bruk av pauserom etc.
-- 7-003: Informasjon til alle kunder
-- 7-004: Dokumentasjon til eventuell smitteoppsporing
+- 7-002: Dokumentasjon til eventuell smitteoppsporing
 
 ### 8. Førstehjelp (1 instruks)
 - 8-001: Førstehjelp - Grunnleggende
 
-**Total: 32 HMS-instrukser**
+**Total: 29 HMS-instrukser**
 
 ## Kontaktinformasjon
 
 **Adresse:** Førde, Norge  
 **Firmanavn:** Grow Frisør og Barber AS
+**Telefon:** 47601065
+**E-post:** post@growfb.no
+**Website:** [growfb.no](https://growfb.no)
 
 ---
 
