@@ -13,7 +13,7 @@
 - [x] handlingsplan med tidfesting og ansvar
 - [x] rutiner for avvik, korrigeringer og evalueringer (korleis blir avvik fulgt opp)
 - [x] dokumentasjon for årleg gjennomgang (revisjon) av HMS system (kun signatur og dato)
-- [ ] vise tilknytning til BHT (kontrakt)
+- [x] vise tilknytning til BHT (kontrakt)
 	- [x] sammarbeidsplan
 	- [x] årsrapporter/tiltak sistem 1-2 år
 - [x] dokumentasjon på at øverste leder har gjennomført lovpålagt HMS opplæring
